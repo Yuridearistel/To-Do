@@ -1,0 +1,12 @@
+/.idea
+/out
+/target
+/build
+*.iml
+*.class
+*.log
+*.db
+*.jar
+*.war
+node_modules
+.env
